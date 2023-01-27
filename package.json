@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bharolakshay/akshay01/issues"
   },
-  "homepage": "https://github.com/bharolakshay/akshay01#readme"
+  "homepage": "https://github.com/bharolakshay/akshay01#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
 }
